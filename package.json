@@ -1,0 +1,23 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "for wanted challenge about typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k8759102/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k8759102/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/k8759102/wanted-pre-onboarding-challenge-fe-2#readme",
+  "dependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
