@@ -4,7 +4,8 @@
   "description": "for wanted challenge about typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc -c jsdoc.json"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,7 @@
     "url": "https://github.com/k8759102/wanted-pre-onboarding-challenge-fe-2/issues"
   },
   "homepage": "https://github.com/k8759102/wanted-pre-onboarding-challenge-fe-2#readme",
-  "dependencies": {
+  "devDependencies": {
     "jsdoc": "^3.6.11"
   }
 }
