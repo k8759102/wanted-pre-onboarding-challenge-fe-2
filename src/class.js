@@ -1,10 +1,13 @@
+/**
+ * @implements {TodoItem}
+ */
 class Todo {
-  /** @param {todoModel} data */
+  /** @param {TodoModel} data */
   constructor(data) {}
 
   /**
    * @function
-   * @param {todoModel} data
+   * @param {TodoModel} data
    */
   initialize = function (data) {};
 }
